@@ -1,20 +1,16 @@
 # pwn-writeups
 
-This repository contains write-ups for various pwn (binary exploitation) challenges. The structure is organized by challenge source and category for clarity and ease of navigation.
+This project contains a collection of write-ups for various pwn (binary exploitation) challenges. Each write-up provides a detailed explanation of the challenge, the approach taken to solve it, and any relevant code snippets or tools used.
 
-## Repository Structure
+## Overview
 
-- **kr/**: Contains write-ups for challenges from the "kr" ([pwnable.kr](http://pwnable.kr/)).
-  - **bof/**: Write-ups for buffer overflow challenge.
-  - **collision/**: Write-ups for hash collision challenge.
-  - **fd/**: Write-ups for file descriptor challenge.
+The pwn challenges included in this repository cover a range of topics and difficulty levels. They are designed to help individuals improve their skills in binary exploitation and understand the underlying concepts.
 
-Each subdirectory includes a `README.md` file with detailed explanations, solutions, and scripts for the respective challenge.
+## Instructions
 
-## How to Use
+To navigate through the write-ups, please refer to the individual markdown files located in the respective directories. Each write-up will typically include:
 
-- Browse to the relevant directory for the challenge you are interested in.
-- Read the `README.md` for a detailed write-up, including the problem statement, analysis, and solution.
-- Any scripts or exploit code will be included in the respective challenge folder.
-
----
+- A description of the challenge
+- The exploitation process
+- Code examples
+- Tools and techniques used
